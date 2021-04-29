@@ -1,7 +1,6 @@
 let TaskData = [];
 
 function eTaskSetUp() {
-    //alert("I'm setup");
     PerpareLocalStorage();
     let tasks = getData();
     //SetLocalStorage(tasks);
